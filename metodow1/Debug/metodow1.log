@@ -1,0 +1,27 @@
+﻿  int_buffer.cpp
+  int_sorted.cpp
+  metodow1.cpp
+C:\Users\moyu1700\source\repos\metodow1\metodow1\int_buffer.h(7,18): error C2011: 'int_buffer': 'class' type redefinition
+C:\Users\moyu1700\source\repos\metodow1\metodow1\int_buffer.h(7): message : see declaration of 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\int_sorted.h(15,13): error C2079: 'int_sorted::sortedbuff' uses undefined class 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(9,24): error C2027: use of undefined type 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\int_buffer.h(7): message : see declaration of 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(9,2): error C3861: 'funktionow': identifier not found
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(11,16): error C2079: 'a' uses undefined class 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(12,13): error C2079: 'b' uses undefined class 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(13,5): error C2109: subscript requires array or pointer type
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(14,5): error C2109: subscript requires array or pointer type
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(15,5): error C2109: subscript requires array or pointer type
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(16,5): error C2109: subscript requires array or pointer type
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(17,5): error C2109: subscript requires array or pointer type
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(28,6): error C2027: use of undefined type 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\int_buffer.h(7): message : see declaration of 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(28,33): error C2027: use of undefined type 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\int_buffer.h(7): message : see declaration of 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(31,37): error C2027: use of undefined type 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\int_buffer.h(7): message : see declaration of 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(36,2): error C2027: use of undefined type 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\int_buffer.h(7): message : see declaration of 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\metodow1.cpp(36,43): error C2027: use of undefined type 'int_buffer'
+C:\Users\moyu1700\source\repos\metodow1\metodow1\int_buffer.h(7): message : see declaration of 'int_buffer'
+  Generating Code...
